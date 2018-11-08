@@ -1,0 +1,6 @@
+List Results
+
+,,,Boyer-Moore,,,,Rabin-Karp
+
+Input size,,BM 1,BM 2,BM 3,,RK 1,RK 2,RK 3,
+10000,,22295,15925,15571,,
